@@ -9,3 +9,4 @@ It is a basic MERN Banking System with different Banking Features
 ![Screenshot (23)](https://github.com/guptaadit82/YUKO_BANK/assets/96142757/441a5f4d-06f5-4436-b670-3a0ca38f34a0)
 ![Screenshot (15)](https://github.com/guptaadit82/YUKO_BANK/assets/96142757/e8e74c18-470d-473c-828d-324e3838b5f5)
 ![Screenshot (16)](https://github.com/guptaadit82/YUKO_BANK/assets/96142757/13a65833-5071-4b40-ade0-7d70cff77a7d)
+create config.hs in server and .env in client for running
